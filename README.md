@@ -1,4 +1,4 @@
-I use Arch BTW.
+I use Arch+Hyprland BTW.
 
 Currently learning C, Lua, and C++ with hopes of making my dream game using some sort of library one day.
 
